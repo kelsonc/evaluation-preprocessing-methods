@@ -67,3 +67,8 @@ The figure (7_boxplot_sample_results_techniques.jpg) shows the boxplot of sample
 ### File: 8_boxplot_sample_results_algorithms.jpg
 
 The figure (8_boxplot_sample_results_algorithms.jpg) shows the boxplot of sample results of classification algorithms using data preprocessing techniques in binary class models and multiclass models for specific attacks from Group 1: Reconnaissance (UNSW-NB15) and PortScan (CIC -IDS2017), and specific attacks from Group 2: DoS (UNSW-NB15) and DoS/DDoS (CIC-IDS2017).
+
+### Appendices
+
+Appendices A, B, and C present detailed tables comparing the data preprocessing technique pipeline for both binary class and multiclass algorithms from Groups 1 and 2, respectively, from the perspective of metrics used to evaluate performance. Besides, Appendices D, E, and F present details in evaluating the performance of algorithms.
+
